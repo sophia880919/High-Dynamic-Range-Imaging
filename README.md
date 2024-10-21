@@ -5,6 +5,6 @@ Compared to Low Dynamic Range (LDR) images, High Dynamic Range (HDR) images disp
 `$python3 pip install -r requirement.txt`
 
 2. Generate HDR image 
-$python3 hdr.py –save_name=output
+`$python3 hdr.py –save_name=output`
 
 3. Finally, the outputs will be saved to the ./output directory.
